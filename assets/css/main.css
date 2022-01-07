@@ -33,6 +33,11 @@ body {
 	line-height: 1;
 }
 
+.ss{
+	width: 50em;
+	border:1px solid rgba(222, 222, 222, 0.5);
+	border-radius: 5px;
+}
 
 ol, ul {
 	list-style: none;
@@ -2819,7 +2824,7 @@ input, select, textarea {
 			margin-left: 2rem;
 			margin-top: 0px;
 			padding: 0;
-			width: 60px;
+			width: 50px;
 		}
 
 			.features li:nth-child(1), .features li:nth-child(2), .features li:nth-child(3) {
